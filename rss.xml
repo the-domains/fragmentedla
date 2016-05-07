@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[FRAGMENTEDLA]]></title>
+        <description><![CDATA[FRAGMENTEDLA]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 07 May 2016 23:13:01 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Flu Game 12s - Price + Release Info | SneakerNews.com]]></title>
+            <description><![CDATA[<article><h1>Flu Game 12s - Price + Release Info | SneakerNews.com</h1><p>Michael Jordan's "Flu Game" in Game 5 of the 1997 NBA Finals is often regarded as one of MJ's best performances in the history of the Playoffs. For the youngsters who aren't familiar with that game, but are still planning ... Continue reading →</p><img src="http://sneakernews.com/wp-content/uploads/2016/05/air-jordan-12-flu-game-2016-release-1.jpg"></article>]]></description>
+            <link>http://sneakernews.com/2016/05/04/jordan-12-flu-game/</link>
+            <guid isPermaLink="false">0730e991-d804-4cc1-8c45-e6c14c01d1f8</guid>
+            <pubDate>Sat, 07 May 2016 23:12:14 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
