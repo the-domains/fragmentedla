@@ -1,0 +1,14 @@
+layout_spectrum: 0.6911923
+typography_spectrum: 0.1293315
+color:
+  saturation: 0.3068497
+  lightness: 0.8164211
+  brandStrength: 0.5606019
+  brandColors:
+    - '#000000'
+    - '#FFFFFF'
+    - '#2C2C2C'
+    - '#6E6E6E'
+    - '#B4B4B4'
+  rhythmicContrast: 0.4904095
+name: FRAGMENTEDLA
